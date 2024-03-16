@@ -6,7 +6,7 @@ i = 0
 while i <= 5:
     if(i==3):
         i+=1  # If we don't increment the value of i, it will be an infinite loop
-        continue   
+        continue    # It will skip the current iteration and continue with the next iteration
     print(i)
     i+=1
 
