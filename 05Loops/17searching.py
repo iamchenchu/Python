@@ -15,3 +15,4 @@ while idx < len(tuple1):
     if tar == tuple1[idx]:
         print(f"The Element {tar} Fount at index:{idx}")
     idx += 1
+    
