@@ -38,7 +38,6 @@ class Banking:
 
 c1 = Banking("Chenchu", 123451, 10000)
 print(c1.name)
-
 c1.deposit(1000)
 c1.withdraw(500)
 c1.withdraw(7000)
