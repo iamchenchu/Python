@@ -16,4 +16,4 @@ def calculator(*args):
     
     return calc_sum(*args), calc_avg(*args), calc_prod(*args)
 
-print(calculator(10, 20, 20))
+print(calculator(10, 20, 20)) 
