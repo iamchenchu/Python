@@ -9,3 +9,19 @@
 
 list1 = [12, 32, 53, 29, 29, 10]
 print(list1)
+
+# Tuple
+tuple1 = (12, 32, 53, 29, 29, 10)
+print(tuple1)
+
+# Set
+set1 = {12, 32, 53, 29, 29, 10} 
+print(set1)
+
+# Dictionary
+dict1 = {
+    "name": "Chenchu",
+    "age": 25,
+    "city": "Hyderabad"
+}
+print(dict1)
