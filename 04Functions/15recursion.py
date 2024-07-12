@@ -8,11 +8,12 @@
 # Recursive function
 def show(n):
     if(n==0):
+        print("END OF THE FUNCTION CALL")
         return
     print(n)
     show(n-1)
-    print("END OF THE FUNCTION CALL")
+    
 
 
 
-show(5) # this will print the numbers from 10 to 1
+show(10) # this will print the numbers from 10 to 1
