@@ -25,5 +25,3 @@ def say_goodbye():
 say_goodbye() # This is equivalent to say_goodbye = my_decorator(say_goodbye), but more readable and commonly used.
 
 # In this example : @my_decorator is a decorator. It takes say_goodbye function as an argument and extends its behavior.
-say_goodbye()
-say_goodbye() 
